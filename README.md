@@ -53,8 +53,9 @@ else:
 ```
 
 The tool processes the search query and quickly retrieves matching products from the inventory database.
-****Results Display:**
 
+**Results Display:**
+---
 The tool displays a list of matching products, including:
 
 ![Result dispay](<Images/Screenshot (311).png>)
@@ -62,7 +63,7 @@ The tool displays a list of matching products, including:
 No Match Found:
 If no matching products are found, the tool displays a message indicating the search was unsuccessful. User can refine the search query or contact IT support for assistance.
 
-Postconditions:
+**Postconditions:**
 
 User is able to quickly and accurately locate the desired product. Inventory accuracy is maintained. Warehouse operations are streamlined. By effectively utilizing the Global Gear Quick Inventory Search tool, users can significantly streamline their inventory processes and improve overall operational efficiency.
 
